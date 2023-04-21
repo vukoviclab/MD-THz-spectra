@@ -5,8 +5,9 @@ This repository contains all the necessary scripts to calculate the localized co
 ## Instructions
 
 1. Ensure that the following files are located in the same directory:
-   - `z-contact-index-dop-ref.tcl`
+   - `z-contact-index-dop-ref.tcl` need to be modified according the ligand name
    - `z-contact-area-ref.tcl`
+   
 
 2. Name your DCD and PSF files with the `z-tot` prefix, for example:
    - `z-tot.dcd`
